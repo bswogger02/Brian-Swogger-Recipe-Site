@@ -1,0 +1,21 @@
+
+h1 {
+    text-align: center;
+    width: 150px;
+    margin: 20px auto;
+    border-color: red;
+    box-sizing: border-box;
+    border: 1px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    text-align: center;
+    width: 200px;
+    margin: 20px auto;
+    box-sizing: border-box;
+}
+
